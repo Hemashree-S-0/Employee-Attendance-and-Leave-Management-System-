@@ -1,4 +1,4 @@
-#🧑‍💼 Employee Attendance & Leave Management System
+🧑‍💼 Employee Attendance & Leave Management System
 
 A full-stack web application to manage employee attendance, leave requests, and role-based access for Admin and Employee users.
 
