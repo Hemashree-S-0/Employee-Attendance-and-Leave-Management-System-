@@ -1,0 +1,9 @@
+export default function EmployeeDashboard() {
+  return (
+    <div>
+      <h1>Employee Dashboard</h1>
+      <button>Punch In</button>
+      <button>Punch Out</button>
+    </div>
+  );
+}
